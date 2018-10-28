@@ -6,6 +6,7 @@
     { "path": "octicons" },
     { "path": "monaco-editor" },
     { "path": "messaging" },
-    { "path": "enchannel-zmq-backend" }
+    { "path": "enchannel-zmq-backend" },
+    { "path": "commutable" }
   ]
 }
