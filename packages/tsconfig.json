@@ -5,6 +5,7 @@
     { "path": "display-area" },
     { "path": "octicons" },
     { "path": "monaco-editor" },
-    { "path": "messaging" }
+    { "path": "messaging" },
+    { "path": "enchannel-zqm-backend" }
   ]
 }
